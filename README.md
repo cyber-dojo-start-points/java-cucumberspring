@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/cyber-dojo-start-points/java-cucumberspring.svg?style=svg)](https://circleci.com/gh/cyber-dojo-start-points/java-cucumberspring)
+[![Github Action (main)](https://github.com/cyber-dojo-start-points/java-cucumberspring/actions/workflows/main.yml/badge.svg)](https://github.com/cyber-dojo-start-points/java-cucumberspring/actions)
 
-### display_name="Java 21, Cucumber-Spring 7"
-### image_name="[cyberdojofoundation/java_cucumber_spring](https://hub.docker.com/repository/docker/cyberdojofoundation/java_cucumber_spring)"
+### display_name="Java 21, Cucumber-Spring 7.20.1"
+### image_name="[ghcr.io/cyber-dojo-languages/java_cucumber_spring](https://github.com/cyber-dojo-languages/java-cucumberspring/pkgs/container/java_cucumber_spring)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)

@@ -1,6 +1,6 @@
 {
-  "display_name": "Java 21, Cucumber-Spring 7",
-  "image_name": "cyberdojofoundation/java_cucumber_spring:78094da",
+  "display_name": "Java 21, Cucumber-Spring 7.20.1",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:7cf0aee",
   "visible_filenames": [
     "README",
     "ApplicationContext.java",
