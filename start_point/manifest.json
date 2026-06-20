@@ -1,5 +1,13 @@
 {
   "display_name": "Java 21, Cucumber-Spring 7.20.1",
+  "language": [
+    "Java",
+    "21"
+  ],
+  "test_framework": [
+    "Cucumber-Spring",
+    "7.20.1"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:7cf0aee",
   "visible_filenames": [
     "README",
