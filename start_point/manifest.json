@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 26.0.2.1, Cucumber-Spring 7.34.7",
+  "display_name": "Java 26.0, Cucumber-Spring 7.34",
   "language": [
     "Java",
-    "26.0.2.1"
+    "26.0"
   ],
   "test_framework": [
     "Cucumber-Spring",
-    "7.34.7"
+    "7.34"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:3e3805d",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:64edf32",
   "visible_filenames": [
     "README",
     "ApplicationContext.java",
