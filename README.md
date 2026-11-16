@@ -1,6 +1,6 @@
 [![GitHub CI](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-### display_name="Java 27.0.1.0.3, Cucumber-Spring 8.0.4"
+### display_name="Java 27.0.1.0.3, Cucumber-Spring 8.1.0"
 ### image_name="[ghcr.io/cyber-dojo-languages/java_cucumber_spring](https://github.com/cyber-dojo-languages/java-cucumberspring/pkgs/container/java_cucumber_spring)"
 
 ![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
