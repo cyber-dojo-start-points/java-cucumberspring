@@ -1,14 +1,14 @@
 {
-  "display_name": "Java 27.0.1.0.3, Cucumber-Spring 8.1.0",
+  "display_name": "Java 27.0.1.1, Cucumber-Spring 8.1.0",
   "language": [
     "Java",
-    "27.0.1.0.3"
+    "27.0.1.1"
   ],
   "test_framework": [
     "Cucumber-Spring",
     "8.1.0"
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:1e53243@sha256:fbc868b653edc73259a3e34544a5fa67870e0ea6d69eb11f18ad8d057480ae65",
+  "image_name": "ghcr.io/cyber-dojo-languages/java_cucumber_spring:b68cf78@sha256:672c714b4ae5acc4b46a6767c506ba8c4ffed6e35de1559f545cee1dda15cd08",
   "visible_filenames": [
     "README",
     "ApplicationContext.java",
